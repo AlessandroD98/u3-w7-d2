@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+ }
+ .navbar-light .navbar-brand {
+  color: white;
+}
+.MyFooter {
+  position: sticky;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  align-items: center;
+  color: white;
+  padding: 10px;
+}
+.MyFooter p {
+  margin-right: 20px;
+  margin-bottom: 0;
+}
+.FooterButton a {
+  color: white;
+}
